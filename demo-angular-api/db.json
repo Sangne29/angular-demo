@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "Price": 15000,
+      "Name": "Dr. Thanh",
+      "Image": "https://cdn.tgdd.vn/Products/Images/8938/96124/bhx/tra-thanh-nhiet-drthanh-455ml-202004251742378618.jpg",
+      "detail": "Nước bù khoáng tác dụng bù khoáng, giảm mất nước, hỗ trợ cung cấp năng lượng và thuận tiện mang theo bên mình cho mọi chuyến đi. Nước bù khoáng Revive muối khoáng 500ml giúp bạn tự tin, năng động ngày hè oi bức. Nước khoáng Revive xua tan mệt mỏi, vận động cùng bạn"
+    },
+    {
+      "id": 4,
+      "Price": 20000,
+      "Name": "C2",
+      "Image": "https://cdn.tgdd.vn/Products/Images/8938/76562/bhx/tra-xanh-c2-huong-chanh-360ml-201912090949471802.jpg",
+      "detail": "Nước bù khoáng tác dụng bù khoáng, giảm mất nước, hỗ trợ cung cấp năng lượng và thuận tiện mang theo bên mình cho mọi chuyến đi. Nước bù khoáng Revive muối khoáng 500ml giúp bạn tự tin, năng động ngày hè oi bức. Nước khoáng Revive xua tan mệt mỏi, vận động cùng bạn"
+    },
+    {
+      "id": 5,
+      "Price": 25000,
+      "Name": "7 Up",
+      "Image": "https://cdn.tgdd.vn/Products/Images/2443/262309/bhx/nuoc-ngot-7-up-it-calo-bo-sung-chat-xo-lon-320ml-202112040854414279.jpg",
+      "detail": "Nước bù khoáng tác dụng bù khoáng, giảm mất nước, hỗ trợ cung cấp năng lượng và thuận tiện mang theo bên mình cho mọi chuyến đi. Nước bù khoáng Revive muối khoáng 500ml giúp bạn tự tin, năng động ngày hè oi bức. Nước khoáng Revive xua tan mệt mỏi, vận động cùng bạn"
+    },
+    {
+      "id": 6,
+      "Price": 50000,
+      "Name": "Trà Xanh không độ",
+      "Image": "https://cdn.tgdd.vn/Products/Images/8938/85739/bhx/tra-xanh-khong-do-vi-chanh-455ml-202004221747191203.jpg",
+      "detail": "Nước bù khoáng tác dụng bù khoáng, giảm mất nước, hỗ trợ cung cấp năng lượng và thuận tiện mang theo bên mình cho mọi chuyến đi. Nước bù khoáng Revive muối khoáng 500ml giúp bạn tự tin, năng động ngày hè oi bức. Nước khoáng Revive xua tan mệt mỏi, vận động cùng bạn"
+    }
+  ]
+}
